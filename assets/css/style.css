@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.text-center{
+    margin-top: 12px;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.grid div{
+    margin: 12px 5px;
+    padding: 41px;
+    border: 1px solid black;
+}
